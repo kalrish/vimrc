@@ -59,3 +59,5 @@ vnoremap	<Tab>	>gv
 vnoremap	<S-Tab>	<gv
 
 command Chars echo "\u201C 201C  \u201D 201D  \u201E 201E\n\u2018 2018  \u2019 2019  \u201A 201A\n\u00AB 00AB  \u00BB 00BB\n\u2013 2013  \u2014 2014\n\u2026 2026\n\u00DF 00DF\n\u2E3F 2E3F  \u00A7 00A7  \u00B6 00B6\n\u2020 2020  \u2021 2021\n\u00A0 00A0  (nbsp)"
+
+set tabpagemax=200
