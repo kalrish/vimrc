@@ -1,0 +1,3 @@
+[submodule "pack/plugins/start/puppet"]
+	path = pack/plugins/start/puppet
+	url = git://github.com/rodjek/vim-puppet.git
